@@ -162,15 +162,8 @@ def compute_structured_match(cv_info, job_info):
 
     
 def screen_cvs(job_info, cvs):
-    """Compute a structured match score between a CV and a job description.
-    Base score (max = 1.0) is distributed across:
-      - Experience (0.3)
-      - Education (0.2)
-      - Skills (0.3)
-      - Training (0.1)
-      - Exam/Certification (0.1)
-    Bonus: +0.2 if >2 years relevant experience.
-    Final score capped at 1.0.
+    """
+    Rank CVs by combining semantic and structured similarity with job info.
     """
     job_text = f"{job_info['title']}\n{job_info['description']}\n{job_info['requirements']}\n{' '.join(job_info['skills'])}"
     job_emb = embedding_model.encode([job_text])
@@ -321,4 +314,5 @@ Output JSON only:
         structured = {"error": "Invalid JSON from model", "content": content}
     return structured
     
+
 
