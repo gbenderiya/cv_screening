@@ -56,17 +56,7 @@ CV файлууд хадгалах
 ## Database / Storage
 - CV файлууд, дүн шинжилгээний үр дүн, туршилтын тестүүдийг хадгалах
 
-
-
-
-![alt text](images/image_workflow.png)
-
-![alt text](images/CV%20matching%20workflow.png)
-
-
-
-
-
+## Workflow диаграмм
 
 ---
 
@@ -138,6 +128,7 @@ npm run dev
 Програмын хэрхэн ажилдагыг ойлгохын тулд дараах демог үзээрэй:
 
 https://github.com/user-attachments/assets/69244871-33ac-4fa1-b53f-23c7cec8d174
+
 
 
 
