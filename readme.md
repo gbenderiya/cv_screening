@@ -43,7 +43,7 @@ Inspired by the multi-agent resume screening framework ([arXiv:2504.02870v1](htt
 ```bash
 git clone https://github.com/yourusername/cv-screening-app.git
 cd cv-screening-app
-'''
+```
 
 
 
@@ -63,6 +63,7 @@ Here are some screenshots of the application:
 Demo:
 
 https://github.com/user-attachments/assets/69244871-33ac-4fa1-b53f-23c7cec8d174
+
 
 
 
