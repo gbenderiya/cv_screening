@@ -12,6 +12,10 @@ Inspired by the multi-agent resume screening framework ([arXiv:2504.02870v1](htt
 ![alt text](images/CV%20matching%20workflow.png)
 ---
 
+## System Architecture of the System
+<img width="707" height="524" alt="image" src="https://github.com/user-attachments/assets/39b7da2c-6705-4dad-90a7-c6dbc1727c65" />
+
+
 ## Features
 
 - Upload and store CVs in PDF format.
@@ -74,6 +78,7 @@ Here are some screenshots of the application:
 Watch the demonstration of the project to understand its workflow and functionality:
 
 https://github.com/user-attachments/assets/69244871-33ac-4fa1-b53f-23c7cec8d174
+
 
 
 
