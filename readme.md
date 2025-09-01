@@ -41,17 +41,35 @@ Inspired by the multi-agent resume screening framework ([arXiv:2504.02870v1](htt
 
 ---
 
-## Installation
-
-1. **Clone the repository:**
-```bash
-git clone https://github.com/yourusername/cv-screening-app.git
-cd cv-screening-app
+## Setup Instructions
+### Clone repository:
+```
+git clone <repo-url>
+cd CV-Screening-Platform
+```
+### Setup Python environment:
+```
+python -m venv env
+source env/bin/activate   # Linux/macOS
+source .venv/Scripts/activate     # Windows
+pip install -r requirements.txt
 ```
 
+Configure .env with HF_KEY for LLM access.
 
+## Run backend:
+```
+uvicorn app:app --host 0.0.0.0 --port 8000 --reload
+```
 
+## Run frontend:
+```
+cd ui
+npm install
+npm run dev
+```
 
+Upload CVs, enter job URL, and evaluate candidates.
 
 
 ## Screenshots
@@ -78,6 +96,7 @@ Here are some screenshots of the application:
 Watch the demonstration of the project to understand its workflow and functionality:
 
 https://github.com/user-attachments/assets/69244871-33ac-4fa1-b53f-23c7cec8d174
+
 
 
 
