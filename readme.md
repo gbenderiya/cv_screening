@@ -43,3 +43,15 @@ Inspired by the multi-agent resume screening framework ([arXiv:2504.02870v1](htt
 ```bash
 git clone https://github.com/yourusername/cv-screening-app.git
 cd cv-screening-app
+
+## Screenshots
+Here are some screenshots of the application:
+
+<img width="901" height="660" alt="image" src="https://github.com/user-attachments/assets/72bcbba1-9fa0-4f2b-be4c-4dc490c93a96" />
+
+<img width="924" height="629" alt="image" src="https://github.com/user-attachments/assets/25de5f7b-4260-4296-91d6-afb3e742dd70" />
+
+
+<img width="748" height="654" alt="image" src="https://github.com/user-attachments/assets/d427d924-0123-470c-a9df-b761cdf9e1ce" />
+
+
