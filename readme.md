@@ -52,19 +52,25 @@ cd cv-screening-app
 
 ## Screenshots
 Here are some screenshots of the application:
-**Main Dashboard Screen**
+
 <img width="901" height="660" alt="image" src="https://github.com/user-attachments/assets/72bcbba1-9fa0-4f2b-be4c-4dc490c93a96" />
+**Main Dashboard Screen**
 
-**Result of Screening process**
 <img width="924" height="629" alt="image" src="https://github.com/user-attachments/assets/25de5f7b-4260-4296-91d6-afb3e742dd70" />
+**Screenshot of Screening**
 
-**Result of Evaluation**
-<img width="748" height="654" alt="image" src="https://github.com/user-attachments/assets/d427d924-0123-470c-a9df-b761cdf9e1ce" />
+<img width="946" height="642" alt="image" src="https://github.com/user-attachments/assets/d978798a-9d7b-4b24-bc27-93d26610aef2" />
+**Screenshot of Evaluation**
+
+
+<img width="536" height="590" alt="image" src="https://github.com/user-attachments/assets/acb96553-5033-4ff2-b561-e81b24dcb84b" />
+**Screenshot of generated mini exam**
 
 ## Demo Video
 Watch the demonstration of the project to understand its workflow and functionality:
 
 https://github.com/user-attachments/assets/69244871-33ac-4fa1-b53f-23c7cec8d174
+
 
 
 
