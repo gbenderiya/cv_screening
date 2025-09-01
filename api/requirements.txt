@@ -1,0 +1,19 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+pydantic==2.8.2
+
+# PDF + text + ml
+PyPDF2==3.0.1
+sentence-transformers==3.0.1
+scikit-learn==1.5.1
+numpy==1.26.4
+pandas==2.2.2
+requests==2.32.3
+
+# Transformers LLM
+transformers==4.43.3
+accelerate==0.33.0
+bitsandbytes==0.43.3
+torch>=2.2.0
+openai==1.3.0
